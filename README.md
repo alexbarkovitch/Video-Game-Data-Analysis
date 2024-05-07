@@ -1,2 +1,5 @@
 # Video-Game-Data-Analysis
 Final Project for CMP 262
+This repository contains files relevant to my final project, including the Jupyter Notebook file for my project code, the csv file I used as my data set, a 1-page project summary, and project presentation slides. The project presentation slides contain images of the plots and conclusions that I drew from the analysis results. 
+This project involves selecting a dataset and asking questions about what that data tells you. I've loved playing games since I was a kid, so I chose to analyze video game data. I wanted to know about what genres, platforms, and ESRB ratings had the highest rated games, I wanted to know the top games for each ESRB rating, what games had the most recommendations, what the completion status was for different games and how that compared to their ratings, and I wanted to know how ratings from two different websites (Metacritic and RAWG) compared with each other. I was able to gain many insights through this analysis, and hope that these results can be helpful to someone else too.
+Link to the dataset used: https://www.kaggle.com/datasets/jummyegg/rawg-game-dataset/data 
